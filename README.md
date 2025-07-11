@@ -1,2 +1,2 @@
 # excel-blinkit-dashboard
-MS EXCEL BLINKIT DASHBOARD OF SALES RECORD
+MS EXCEL dashboard on BLINKIT SALES DATA
